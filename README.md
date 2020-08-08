@@ -1,0 +1,2 @@
+# Anomaly-detection-in-time-series-data-of-S-P-500-index
+I have done a project on anomaly detection in the time series data of S&P 500 index (Stock performance of top 500 companies in usa). I have used deep learning technique called LSTM Autoencoder (Long short-term memory) and trained the autoencoder with examples to identify the anomalies. The tools used are tensorflow, keras, numpy, pandas, seaborn, matplotlib and plotly in python using jupyter notebook ide on google colab.
